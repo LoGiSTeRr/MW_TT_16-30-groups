@@ -1,0 +1,45 @@
+#main{
+    display: flex;
+}
+#dark{
+    width: 55%;
+    background-color: #1A2E35;
+}
+#light{
+    width: 45%;
+    background-color: #1CBBB4;
+}
+body{
+    margin: 0;
+}
+#dark-text{
+    padding: 30%;
+    color: white;
+}
+h1{
+    font: bold 50px sans-serif;
+}
+p{
+    font-size: 25px;
+    font-family: sans-serif;
+}
+#buttons{
+    display: flex;
+}
+#b1{
+    background-color: #FF4F5A;
+    padding: 5px;
+    margin-right: 5px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+#b2{
+    background-color: white;
+    color: black;
+    padding: 5px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+}
