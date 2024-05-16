@@ -1,0 +1,23 @@
+#white{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#bej{
+    background-color: beige;
+}
+#nav{
+    display: flex;
+}
+
+#nav p{
+    margin-right: 35px;
+    font: bold 35px sans-serif;
+}
+
+#big-text{
+    margin-top: 20px;
+    font: bold 250px sans-serif;
+    color: dodgerblue;
+}
